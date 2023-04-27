@@ -1,0 +1,13 @@
+#results {
+         display:none;
+       }
+
+body      {
+          background-color: red;
+		  color: blue;
+        }
+		
+.card, card-body, text-center, mt-5  {
+          background-color: black;
+        }
+	
